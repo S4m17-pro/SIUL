@@ -5,3 +5,4 @@ module com.mycompany {
     opens com.mycompany to javafx.fxml;
     exports com.mycompany;
 }
+//aaaaa
